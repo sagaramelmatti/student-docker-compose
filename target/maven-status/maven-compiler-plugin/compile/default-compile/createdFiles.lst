@@ -1,0 +1,4 @@
+com/kubernetes/demo/controller/StudentController.class
+com/kubernetes/demo/entity/Student.class
+com/kubernetes/demo/StudentKubernetesDemoApplication.class
+com/kubernetes/demo/repository/StudentRepository.class

@@ -1,0 +1,4 @@
+/home/sagar/work/kubernetes_workspace/student-docker-compose/src/main/java/com/kubernetes/demo/StudentKubernetesDemoApplication.java
+/home/sagar/work/kubernetes_workspace/student-docker-compose/src/main/java/com/kubernetes/demo/repository/StudentRepository.java
+/home/sagar/work/kubernetes_workspace/student-docker-compose/src/main/java/com/kubernetes/demo/controller/StudentController.java
+/home/sagar/work/kubernetes_workspace/student-docker-compose/src/main/java/com/kubernetes/demo/entity/Student.java
